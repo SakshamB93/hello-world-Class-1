@@ -3,6 +3,7 @@ estimate 30 lines
 Pick up bread packet
 Take out two breads
 Place them on plate next to each other
+keep the bread packet on the table
 Name one bread A and second bread B
 Open peanut butter jar lid
 Put the peanut butter jar lid on table
