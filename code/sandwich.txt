@@ -1,0 +1,22 @@
+estimate 30 lines
+
+Pick up bread packet
+Take out two breads
+Place them on plate next to each other
+Name one bread A and second bread B
+Open peanut butter jar lid
+Put the peanut butter jar lid on table
+pick up the kitchen knife
+Put it in peanut butter jar
+Scoop out peanut butter from the jar
+Spread it on Bread A
+keep the kitchen knife on the table
+Open jelly jar lid
+place the jelly jar lid on the counter
+pick up the kitchen knife
+put it in the jelly jar
+scoop out the jelly from the jar
+spread it on bread B
+keep the kitchen knife on the table
+Take bread A and flip it
+Keep this flipped bread A on top of Bread B
